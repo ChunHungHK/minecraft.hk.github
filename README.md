@@ -1,3 +1,3 @@
 # minecraft.hk.github
-GitHub Pages EDIT AT THIS TREE:
+Direct EDIT GitHub Pages AT THIS TREE:
 https://github.com/ChunHungHK/minecraft.hk.github/tree/gh-pages
