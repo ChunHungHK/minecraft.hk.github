@@ -1,6 +1,8 @@
-## Welcome to minecraft.hk / https://chunhunghk.github.io/minecraft.hk.github/
+## Welcome to minecraft.hk 
 
-TESTING.
+/ [GitHub Pages](https://minecraft.hk/)
+/ https://chunhunghk.github.io/minecraft.hk.github/
+/ TESTING.
 
 ## Welcome to GitHub Pages
 
